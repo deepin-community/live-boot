@@ -1,3 +1,9 @@
+live-boot (1:20210208-deepin1) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Mon, 21 Sep 2026 17:00:35 +0800
+
 live-boot (1:20210208-deepin) stable; urgency=medium
 
   * ['Rebuild  against by  current gcc 11.2']
